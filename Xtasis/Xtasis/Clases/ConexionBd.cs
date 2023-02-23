@@ -10,5 +10,7 @@ namespace Xtasis.Clases
     class ConexionBd
     {
         public static string cadena = "Data Source=example.mssql.somee.com;Initial Catalog=example;User ID=grosario_SQLLogin_1;Password=******";
+
+        //Este es otro maldito cambio.
     }
 }
